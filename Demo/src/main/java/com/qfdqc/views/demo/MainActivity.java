@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public String[] checkedSeatTxt(int row, int column) {
-                return null;
+                return new String[]{"ddd","奋斗"};
             }
 
         });
